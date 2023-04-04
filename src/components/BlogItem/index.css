@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.title-and-date {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.title {
+  font-size: 18px;
+  font-weight: bold;
+}
